@@ -10,6 +10,7 @@ body {
     background: #1F2937;
     height: 550px;
     width: 550px;
+    border-radius: 5px;
 }
 
 #inner-container {
